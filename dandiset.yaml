@@ -3,6 +3,7 @@
 # and obtained from the dandiarchive.
 '@context': 
   https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.9/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:EmbargoedAccess
@@ -21,13 +22,21 @@ contributor:
 dateCreated: '2025-02-23T22:42:03.000744+00:00'
 description: 'Brain-wide human electrophysiology associated with Kauvar*, Richman*,
   Liu* et al Science (2025). '
+ethicsApproval: []
 id: DANDI:001347/draft
 identifier: DANDI:001347
+keywords: []
+license:
+- spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001347/versions/draft/assets/
 name: Brain-wide human electrophysiology during aversive stimuli and ketamine
+protocol: []
+relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.9
+studyTarget: []
 url: https://dandiarchive.org/dandiset/001347/draft
 version: draft
+wasGeneratedBy: []
