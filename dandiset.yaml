@@ -46,8 +46,8 @@ assetsSummary:
   - ElectrodeGroup
   - BehavioralTimeSeries
 citation: Liu, Tony X; Kauvar, Isaac; Richman, Ethan (2025) Brain-wide human electrophysiology
-  during aversive stimuli and ketamine (Version draft) [Data set]. DANDI Archive.
-  https://dandiarchive.org/dandiset/001347/draft
+  during aversive stimuli and ketamine (Version 0.250528.0702) [Data set]. DANDI Archive.
+  https://doi.org/10.48324/dandi.001347/0.250528.0702
 contributor:
 - awardNumber: 1 P50 DA 042012-01A1
   name: National Institutes of Health (NIH)
@@ -82,14 +82,15 @@ description: "Brain-wide human electrophysiology associated with Kauvar*, Richma
   \ indicate iEEG human participants, \"h\" indicate non-iEEG eyepuff human participants,
   and \"m\" indicate mice. Notably, \"H\" and \"mouse\" folders include cross-participant
   aggregated data. "
+doi: 10.48324/dandi.001347/0.250528.0702
 ethicsApproval: []
-id: DANDI:001347/draft
+id: DANDI:001347/0.250528.0702
 identifier: DANDI:001347
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001347/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001347/0.250528.0702/assets.yaml
 name: Brain-wide human electrophysiology during aversive stimuli and ketamine
 protocol: []
 publishedBy:
@@ -109,6 +110,6 @@ repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.9
 studyTarget: []
-url: https://dandiarchive.org/dandiset/001347/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001347/0.250528.0702
+version: 0.250528.0702
 wasGeneratedBy: []
