@@ -1,0 +1,17 @@
+{
+    "Name": "Brain-wide human electrophysiology during aversive stimuli and ketamine",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Brain-wide human electrophysiology associated with Kauvar*, Richman*, Liu* et al Science (2025). \n\nRegarding data folders, subjects with prefix \"SD\" indicate iEEG human participants, \"h\" indicate non-iEEG eyepuff human participants, and \"m\" indicate mice. Notably, \"H\" and \"mouse\" folders include cross-participant aggregated data. ",
+    "DatasetType": "raw",
+    "Authors": [],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
