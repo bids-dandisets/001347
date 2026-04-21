@@ -4,7 +4,11 @@
     "HEDVersion": "8.3.0",
     "Description": "Brain-wide human electrophysiology associated with Kauvar*, Richman*, Liu* et al Science (2025). \n\nRegarding data folders, subjects with prefix \"SD\" indicate iEEG human participants, \"h\" indicate non-iEEG eyepuff human participants, and \"m\" indicate mice. Notably, \"H\" and \"mouse\" folders include cross-participant aggregated data. ",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Liu, Tony X",
+        "Kauvar, Isaac",
+        "Richman, Ethan"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
